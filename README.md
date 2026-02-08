@@ -1,0 +1,1 @@
+Face Mask Detection is a soft computing project that uses machine learning and computer vision to identify whether a person is wearing a mask. It applies neural networks, image preprocessing, and data augmentation to achieve reliable real time detection, helping improve public safety in crowded areas and supporting health guidelines. for global use
